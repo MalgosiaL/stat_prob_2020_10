@@ -1,1 +1,1 @@
-# stat_prob_2020_10
+# Statystyka i rachunek prawdopodobieństwa
